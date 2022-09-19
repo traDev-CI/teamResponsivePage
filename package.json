@@ -1,0 +1,22 @@
+{
+  "name": "myteampagemaster",
+  "version": "0.0.1",
+  "description": "Team Responsive Page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traDev-CI/teamResponsivePage.git"
+  },
+  "keywords": [
+    "responsive"
+  ],
+  "author": "Alfredo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traDev-CI/teamResponsivePage/issues"
+  },
+  "homepage": "https://github.com/traDev-CI/teamResponsivePage#readme"
+}
