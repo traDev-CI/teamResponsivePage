@@ -35,7 +35,8 @@
 
 ## Overview
 
-![screenshot](https://github.com/traDev-CI/404-NotFound-Responsive/blob/main/img/over.PNG)
+![screenshot](https://github.com/traDev-CI/teamResponsivePage/blob/main/img/over.PNG)
+![screenshot](https://github.com/traDev-CI/teamResponsivePage/blob/main/img/mobileOver.PNG)
 
 ### Built With
 
